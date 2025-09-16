@@ -15,7 +15,7 @@ Determine the ticket price based on age and student status.
 Price is $10 if under 18 or a student, $20 otherwise.
 '''
 
-price = input("please put your age" )(18 and 20) # made price20 a ting variable
+price = input("please put your age" )(18 and 20) # made price a ting variable
 
 if price == 18:        # made an if statement to determine what will be paid.
     print("pay 10 dollars you ")
