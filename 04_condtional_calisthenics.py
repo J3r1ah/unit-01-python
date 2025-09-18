@@ -54,7 +54,7 @@ The shipping cost is $5 per kilogram for Zone A and $7 per kilogram for Zone B.
 If the order weight is less than 0 kg, return an error message.
 '''
 
-weight=int(input("What is the weight: "))#create variable for weight integer and zone string
+weight= int(input("What is the weight: "))#create variable for weight integer and zone string
 zone=str(input("Which zone are you taking: "))
 A=5#create varable for zone A and zone B
 B=7
