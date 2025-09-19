@@ -30,21 +30,42 @@ floor = num1 // num2
 
 if operator == "addition":# if statement for addition operator
     print(addition)
+    print()
+    print()
+    print("thanks for using the Calculatinator-inator 9000!")
 elif operator == "subtraction":# if statement for subtraction operator
     print(subtraction)
+    print()
+    print()
+    print("thanks for using the Calculatinator-inator 9000!")
 elif operator == "multiplication":# if statement for multiplication operator
     print(multiplication)
+    print()
+    print()
+    print("thanks for using the Calculatinator-inator 9000!")
 elif operator == "division":# if statement for division operator and nested if statement to let the user know they cant divide by 0
     if num2 == 0:
         print("cant divide by the value 0")
     else:
         print(division)
+        print()
+        print()
+        print("thanks for using the Calculatinator-inator 9000!")
 elif operator == "modulus":# if statement for modulus operator 
     print(modulus)
+    print()
+    print()
+    print("thanks for using the Calculatinator-inator 9000!")
 elif operator == "exponent":# if statement for the exponent operator 
     print(exponent)
+    print()
+    print()
+    print("thanks for using the Calculatinator-inator 9000!")
 elif operator == "floor":# if statement for the operator floor
     print(floor)
+    print()
+    print()
+    print("thanks for using the Calculatinator-inator 9000!")
 else:# else to let user know what they typed wasn't a given operator 
     print("that is not an operator " )
     print()
