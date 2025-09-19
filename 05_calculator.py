@@ -1,3 +1,5 @@
+import math
+
 print("Welcome to the Calculatinator-inator 9000!")
 print()
 print()
@@ -71,4 +73,3 @@ else:# else to let user know what they typed wasn't a given operator
     print()
     print()
     print("thanks for using the Calculatinator-inator 9000!")
-    
