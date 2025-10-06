@@ -27,8 +27,5 @@ while True:
          print("your list is cleared")
          print("here is what you to do list looks like:", my_list)
 
-    else:
-        print("Please enter 'add' or 'remove'.")
 
-        
        
