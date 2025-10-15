@@ -28,6 +28,38 @@ for number in range(5):
 for number in range
 
 
+
+"""
+Task 3 (random module):
+Create a list of colors: ["red", "blue", "green", "yellow", "purple"].
+Write a program that randomly selects and prints 3 colors from this list without replacement.
+"""
+print("----task3-----")
+print()
+print()
+
+bobby_colors = ["red", "blue", "green", "yellow", "purple"]
+for _ in range(3):
+    print(random.choice(bobby_colors))
+
+
+
+"""
+Task 4 (random module):
+Write a program that creates a list of numbers from 1 to 10, then shuffles the list
+and prints the shuffled result.
+"""
+
+print("----task4-----")
+print()
+print()
+
+numbers = list(range(1, 11))
+random.shuffle(numbers)
+print("Shuffled numbers:", numbers)
+
+
+
     
     
    
