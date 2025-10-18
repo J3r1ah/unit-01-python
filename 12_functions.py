@@ -17,7 +17,9 @@ Write a function that takes an integer as an argument and returns its square.
 """
 
 def square(a, b):
-    """"""
+    """defining sqaure as a and b so i can use that function to return a n
+    umber when function is used then make a variable 
+    so i can use square to return its root"""
     return a ** b
 
 x = square(7,8)
