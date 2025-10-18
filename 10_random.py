@@ -20,7 +20,7 @@ Then generate 5 random floating-point numbers between 10 and 20.
 Print both sets of numbers.
 """
 
-for number in range(5):
+for number in range(5):#l
     random_float = random.randint(10,20)
     print("float", number + 1.1 , random_float)
 
