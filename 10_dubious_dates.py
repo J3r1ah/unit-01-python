@@ -1,7 +1,3 @@
-"""
-Exercise 1:
-Write a Python program that prints the current date and time using the datetime module.
-"""
 
 from datetime import datetime #imports datetime
  
