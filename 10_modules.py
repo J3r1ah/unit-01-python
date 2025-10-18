@@ -8,7 +8,7 @@ Task 1 (os module):
 Write a Python program that prints the current folder (working directory) using the os module.
 """
 
-current_dir = os.getcwd()
+current_dir = os.getcwd()#l
 print("the current directory", current_dir)
 
 
