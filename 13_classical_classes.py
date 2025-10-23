@@ -68,4 +68,13 @@ Test these methods with instances of the class.
 
 
 
+
+
+
+
+
+numero_uno = 10
+number_2 = 20
+average = numero_uno + number_2 / 2
+print("The average is:", average)
  
