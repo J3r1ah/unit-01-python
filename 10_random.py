@@ -25,7 +25,7 @@ for number in range(5):#l
     print("float", number + 1.1 , random_float)
 
 
-for number in range
+
 
 
 
